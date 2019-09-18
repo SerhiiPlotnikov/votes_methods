@@ -1,0 +1,14 @@
+{
+  "require": {
+    "twbs/bootstrap": "4.1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "Strategy.php",
+      "RelativeMajority.php",
+      "Condorcet.php",
+      "AlternativeVoting.php",
+      "VotingMethods.php"
+    ]
+  }
+}
